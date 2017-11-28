@@ -11,6 +11,7 @@
   * [Time Estimate](#time-estimate)
   * [Exercise 1: Log into your Azure Portal](#exercise-1:log-into-your-azure-portal)
   * [Exercise 2: Verify access to the Subscription](#exercise-2:verify-access-to-the-subscription)
+ 3. [Lab 2: Deploying Open Shift cluster using ARM templates](#lab-2:deploying-open-shift-cluster-using-ARM-templates)
 
 <!-- /TOC -->
 
