@@ -20,7 +20,7 @@
   * [Exercise 3: Deploy Openshift Cluster using ARM Template](#exercise-3:deploy-openshift-cluster-using-ARM-template)
   * [Exercise 4: Configure Azure AD Authentication](#exercise-4:configure-azure-AD-authentication)
   * [Exercise 5: Deploy a 2 Tier Node JS Application on Open Shift](#exercise-5:Deploy-a-2-tier-node-JS-application-on-open-shift)
-  * [Exercise 6: Integrate ACR with OpenShift](#Exercise 6:Integrate-ACR-with-OpenShift)
+  * [Exercise 6: Integrate ACR with OpenShift](#exercise-6:integrate-ACR-with-openShift)
 <!-- /TOC -->
 
 
