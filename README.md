@@ -43,6 +43,18 @@ h
 
 h
 
+g
+v
+gv
+gv
+gv
+gfb
+v
+f
+f
+
+bf
+
 
 
 ## Workshop Architecture and Objective
