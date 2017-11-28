@@ -1,5 +1,7 @@
-# DocRepo
-Document Repo
+# AEC Openshift Lab Guide
 
-# Workshop Architecture and Objective
-## Workshop Architecture Before the Performing Labs
+<!-- TOC -->
+
+[AEC Openshift | Lab guide ](#AEC-Openshift)
+ [Workshop Architecture and Objective](#Workshop Architecture and Objective)
+
