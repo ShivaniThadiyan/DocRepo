@@ -4,7 +4,7 @@
 
 1. [Workshop Architecture and Objective](#workshop-architecture-and-objective)
   * [Workshop Architecture Before the Performing Labs](#workshop-architecture-before-the-performing-labs)
-    + [Labs Objective](#labs-objective)
+  * [Labs Objective](#labs-objective)
 
 
 <!-- /TOC -->
