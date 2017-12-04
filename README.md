@@ -35,5 +35,7 @@ During this lab, you will deploy Open Shift cluster on Azure and integrate Azure
   * [Create a key vault to store SSH Key](#create-a-key-vault-to-store-SSH-Key)
   * [Deploy Open Shift using ARM Template](#deploy-Open-Shift-using-ARM-Template)
   * [Configure Azure AD Authentication](#configure-Azure-AD-Authentication)
-  * [Deploy 2 Tier App on Open Shift](#Deploy-2-Tier-App-on-Open Shift)
+  * [Deploy 2 Tier App on Open Shift](#deploy-2-Tier-App-on-Open Shift)
 
+## Workshop Architecture after deploying ARM Template
+Following illustrates the architecture in your Azure deployment after completion of exercise’s part of workshop.
