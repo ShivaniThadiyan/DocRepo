@@ -39,7 +39,12 @@ During this lab, you will deploy Open Shift cluster on Azure and integrate Azure
 
 ## Workshop Architecture after deploying ARM Template
 Following illustrates the architecture in your Azure deployment after completion of exercise’s part of workshop.
+
 <img src="https://raw.githubusercontent.com/ShivaniThadiyan/DocRepo/master/Images/img1.jpg"/>
+
+## Lab 1: Introduction to Azure Portal
+### Lab Overview
+
 
 
 
