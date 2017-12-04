@@ -48,8 +48,9 @@ This lab will take you through Azure login and portal experience.
 
 ### Prerequisites
 * Windows or a Mac machine with HTML5 supported browser such as Microsoft Edge, Internet Explorer, Chrome or Firefox
-* You should have registered in the training portal https://azuretraining.spektrasystems.com and received the confirmation message with the credentials to login to the [Azure portal](https://Portal.azure.com).
+* You should have registered in the [training portal](https://azuretraining.spektrasystems.com) and received the confirmation message with the credentials to login to the [Azure portal](https://Portal.azure.com).
 
+<img src="https://github.com/ShivaniThadiyan/DocRepo/blob/master/Images/image2.png"/>
 
 
 
