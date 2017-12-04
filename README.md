@@ -70,7 +70,7 @@ In this exercise, you will log into the Azure Portal using your Azure credential
 
 ### Exercise 2: Verify access to the Subscription
 In this exercise, you will verify the type of role you are assigned in this Subscription.
-1. Launch a browser and Navigate to [Azure portal](https://Portal.azure.com). Provide the credentials that you received via email. Click on Sign In.
+1. Launch a browser and Navigate to [Azure portal](https://Portal.azure.com). Provide the credentials that you received via email. 
 <img src="https://github.com/ShivaniThadiyan/DocRepo/blob/master/Images/LoginPortal.png"/>
 
 2.	Click on Microsoft Azure  at the top left corner of the screen, to view the Dashboard.
@@ -93,6 +93,22 @@ In this exercise, you will verify the type of role you are assigned in this Subs
 <img src="https://github.com/ShivaniThadiyan/DocRepo/blob/master/Images/see-roles.png"/>
 
 # Lab 2: Deploying Open Shift cluster using ARM templates
+### Lab Overview
+In this lab, you will learn how to deploy the Open Shift Cluster on Azure using ARM templates.
+
+### Prerequisites
+* Lab 1 must be completed
+
+### Time Estimates
+45 minutes
+
+### Exercise 1: Create an Azure AD Application
+In this exercise, you will create an Azure AD App and retrieve the Client ID and Client secret values.
+1. Launch a browser and Navigate to [Azure portal](https://Portal.azure.com). Provide the credentials that you received via email. 
+<img src="https://github.com/ShivaniThadiyan/DocRepo/blob/master/Images/LoginPortal.png"/>. 
+
+
+
 
 
 
