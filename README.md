@@ -52,6 +52,14 @@ This lab will take you through Azure login and portal experience.
 
 <img src="https://github.com/ShivaniThadiyan/DocRepo/blob/master/Images/image2.png"/>
 
+### Time Estimates
+10 minutes
+
+### Exercise 1: Log into your Azure Portal
+In this exercise, you will log into the Azure Portal using your Azure credentials.
+1. Launch a browser and Navigate to [Azure portal](https://Portal.azure.com). Provide the credentials that you received via email. Click on Sign In.
+<img src="https://github.com/ShivaniThadiyan/DocRepo/blob/master/Images/login.png"/>
+
 
 
 
