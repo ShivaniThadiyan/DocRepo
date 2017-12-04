@@ -23,4 +23,6 @@
   * [Exercise 6: Integrate ACR with OpenShift](#exercise-6:integrate-ACR-with-openShift)
 <!-- /TOC -->
 
+## Workshop Architecture and Objective
+### Workshop Architecture Before the Performing Labs
 
